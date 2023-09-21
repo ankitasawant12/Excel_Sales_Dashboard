@@ -6,7 +6,7 @@ If you like playing around Excel as much as I do, then peek in. When it comes to
 1. Basic formulas and functions.
 2. Vlookup(frequently used), Xlookup(Available in newer versions).
 3. Conditional statements (if, ifs, switch etc).
-4. Pivot, PowerPivot.
+4. Pivot Chart, Pivot Table.
 5. Data Validation.
 6. Charts and formatting.
 7. Conditional formatting.
