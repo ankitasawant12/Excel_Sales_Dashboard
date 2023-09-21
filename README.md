@@ -2,6 +2,8 @@
 ## Overview 
 If you like playing around Excel as much as I do, then peek in. When it comes to big data. Excel is a very powerful tool and eases up alot of computation on data. I personally find Excel very handy for Analysis and Dashboarding. First, you have to have good cognititve ability, Second, be creative.
 
+![Sales Dashboard]
+
 ## Important concepts 
 1. Basic formulas and functions.
 2. Vlookup(frequently used), Xlookup(Available in newer versions).
